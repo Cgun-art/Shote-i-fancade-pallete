@@ -1,10 +1,12 @@
 
 # ColorPicker
-<img style="border-radius:15px;" src="IMG_20220301_103541.png">
+<img style="border-radius:1000px;" src="IMG_20220301_103541.png">
 
-> with 2 different type 
+> with 4 different type 
 > * HEX
 > * RGB
+> * Skibidi hex (S000)
+> * language (ひはまやの佐々木ができますので。。をした。。を、、とのち!　ちちち　み　やぬ　ひめ)
 
 Created With Javascript
 # Palette Exporter
@@ -18,3 +20,7 @@ Created With Javascript
 - Added Palette Export
 - Added Ui Border
 - Fixed Ui
+
+# License
+
+see the license
